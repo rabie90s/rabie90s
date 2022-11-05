@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rabie90s
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web/App Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on mmmm?
 - 📫 How to reach me ...
